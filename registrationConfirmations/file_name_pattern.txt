@@ -1,0 +1,1 @@
+SoLaWiS_Anmeldebestaetigung_%VAR_membership_number%_%VAR_name%
