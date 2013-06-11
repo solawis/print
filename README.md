@@ -1,9 +1,9 @@
-# SoLaWiS repository of printing stuff
+# SoLaWiS Repository für Druckdaten aller Art
 
 ## Software
 
 - [Scribus](http://scribus.net/)
 
-## License
+## Lizenz
 
-AGPLv3 and CC-BY-NC-SA
+AGPLv3 und CC-BY-NC-SA
